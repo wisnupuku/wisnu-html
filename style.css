@@ -64,7 +64,8 @@ nav li a:hover{
 	font-weight: 300;
 	color: #373d46;
 }
-.hero p{
+
+.hero li{
 	font-weight: 300;
 	line-height: 1.3em;
 	color: #98a0ad;
@@ -130,7 +131,7 @@ footer p{
 		font-size: 3em;
 		padding-left: 25px;
 	}
-	.hero p{
+	.hero li{
 		width: 60%;
 		padding-left: 25px;
 	}
