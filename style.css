@@ -13,10 +13,12 @@ body{
 	grid-area: sidebar;
 	background-color: black;
 	justify-content: center;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 .footer{
 	grid-area: footer;
 	background: orange;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 .container{
 	font-size: 1.5em;
@@ -58,13 +60,13 @@ nav li a:hover{
 }
 .hero img{
 	width: 200px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .hero h1{
 	font-size: 2em;
 	font-weight: 300;
 	color: #373d46;
 }
-
 .hero li{
 	font-weight: 300;
 	line-height: 1.3em;
